@@ -2,7 +2,7 @@ var SLIDE_CONFIG = {
   // Slide settings
   settings: {
       title: 'Underwater collapse of granular columns',
-      subtitle: 'Discrete Element - Lattice Boltzmann Coupling',
+      // subtitle: 'Discrete Element - Lattice Boltzmann Coupling',
       //eventInfo: {
       //  title: 'Google I/O',
       //  date: '6/x/2013'
@@ -20,13 +20,13 @@ var SLIDE_CONFIG = {
       //theme: ['mytheme'], // Add your own custom themes or styles in /theme/css. Leave off the .css extension.
 
       //Workshop
-      workshop: '13 USNCCM 2015, <br/>San Diego, CA',
+      workshop: '13<sup>th</sup> USNCCM - 2015, <br/>San Diego, CA',
   },
 
     // Author information
     presenters: [{
-        name: 'Krishna Kumar',
-        company: '',
+        name: 'Krishna Kumar*',
+        company: 'University of Cambridge, UK',
         email: 'kks32@cam.ac.uk'
     }, {
         name: 'Prof. Kenichi Soga',
